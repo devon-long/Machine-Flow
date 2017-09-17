@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SchaefflerApp</string>
+    <string name="update_status">Update Status</string>
+    <string-array name="machine_status">
+        <item>Select Status</item>
+        <item>Setup</item>
+        <item>Inspection</item>
+        <item>Running</item>
+        <item>Finished</item>
+        <item>Tooling</item>
+        <item>Pink Ticket</item>
+        <item>Machine Down</item>
+
+    </string-array>
+</resources>
